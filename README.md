@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/yenni-p-ortiz-acero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https:scholar.google.com/citations?user=mTnwi0kAAAAJ&hl=es" target="_blank">
+  <a href="https://scholar.google.com/citations?user=mTnwi0kAAAAJ&hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
   <a href="https://www.researchgate.net/profile/TU-PERFIL" target="_blank">
